@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 378,
+    "timeDay": 378,
+    "timeWeek": 378,
+    "timeMonth": 378,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   },
   {
@@ -87,6 +87,24 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "WebdoxCLM",
+    "url": "https://app.webdoxclm.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/app.webdoxclm.com.ico",
+    "slug": "webdox-clm",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 96,
+    "timeDay": 96,
+    "timeWeek": 96,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   }
 ]
