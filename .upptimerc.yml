@@ -20,8 +20,6 @@ sites:
     url: $SITE_PASIMPCH
   - name: Share
     url: $SITE_SHARE
-  - name: Test Broken Site2
-    url: https://thissitedoesnotexisssst.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
