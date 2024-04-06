@@ -18,6 +18,7 @@ sites:
     ipv6: true
   - name: PasImpCh
     url: $SITE_PASIMPCH
+    __dangerous__body_down_if_text_missing: '$SITE_STRING'
   - name: Share
     url: $SITE_SHARE
 
