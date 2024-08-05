@@ -4,15 +4,15 @@
     "url": "$SITE_PASIMPCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pas-imp-ch",
-    "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "89.36%",
-    "uptimeWeek": "93.29%",
+    "status": "down",
+    "uptime": "97.32%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "93.30%",
     "uptimeMonth": "90.77%",
-    "uptimeYear": "97.30%",
+    "uptimeYear": "97.32%",
     "time": 2267,
-    "timeDay": 1181,
-    "timeWeek": 3290,
+    "timeDay": 1264,
+    "timeWeek": 3344,
     "timeMonth": 2323,
     "timeYear": 2267,
     "dailyMinutesDown": {
@@ -56,8 +56,7 @@
       "2024-06-14": 79,
       "2024-06-13": 154,
       "2024-06-12": 140,
-      "2024-06-11": 192,
-      "2024-06-10": 41
+      "2024-06-11": 192
     }
   },
   {
