@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pas-imp-ch",
     "status": "up",
-    "uptime": "97.48%",
-    "uptimeDay": "88.58%",
-    "uptimeWeek": "89.50%",
-    "uptimeMonth": "90.49%",
-    "uptimeYear": "97.48%",
+    "uptime": "97.47%",
+    "uptimeDay": "89.61%",
+    "uptimeWeek": "89.65%",
+    "uptimeMonth": "90.53%",
+    "uptimeYear": "97.47%",
     "time": 2140,
     "timeDay": 959,
     "timeWeek": 995,
-    "timeMonth": 2277,
+    "timeMonth": 2284,
     "timeYear": 2140,
     "dailyMinutesDown": {
-      "2024-08-17": 123,
+      "2024-08-17": 108,
       "2024-08-16": 176,
       "2024-08-15": 107,
       "2024-08-14": 170,
@@ -55,7 +55,8 @@
       "2024-07-12": 124,
       "2024-07-11": 133,
       "2024-07-10": 168,
-      "2024-07-09": 174
+      "2024-07-09": 174,
+      "2024-07-08": 21
     }
   },
   {
@@ -63,18 +64,19 @@
     "url": "$SITE_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
-    "status": "up",
-    "uptime": "84.88%",
-    "uptimeDay": "76.36%",
-    "uptimeWeek": "76.74%",
+    "status": "down",
+    "uptime": "85.03%",
+    "uptimeDay": "76.60%",
+    "uptimeWeek": "76.77%",
     "uptimeMonth": "76.28%",
-    "uptimeYear": "84.88%",
+    "uptimeYear": "85.03%",
     "time": 5635,
     "timeDay": 6268,
     "timeWeek": 6386,
     "timeMonth": 5644,
     "timeYear": 5635,
     "dailyMinutesDown": {
+      "2024-08-17": 0,
       "2024-08-16": 340,
       "2024-08-15": 330,
       "2024-08-14": 335,
@@ -171,8 +173,7 @@
       "2024-04-30": 332,
       "2024-04-29": 334,
       "2024-04-28": 336,
-      "2024-04-27": 328,
-      "2024-04-26": 336
+      "2024-04-27": 328
     }
   }
 ]
