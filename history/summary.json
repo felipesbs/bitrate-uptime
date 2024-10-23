@@ -8,12 +8,12 @@
     "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "95.97%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "98.21%",
     "time": 1888,
     "timeDay": 853,
     "timeWeek": 1972,
-    "timeMonth": 1334,
+    "timeMonth": 1332,
     "timeYear": 1888,
     "dailyMinutesDown": {
       "2024-10-17": 86,
@@ -55,18 +55,19 @@
     "url": "$SITE_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
-    "status": "up",
-    "uptime": "89.45%",
-    "uptimeDay": "74.94%",
+    "status": "down",
+    "uptime": "89.57%",
+    "uptimeDay": "74.92%",
     "uptimeWeek": "75.31%",
     "uptimeMonth": "84.10%",
-    "uptimeYear": "89.45%",
+    "uptimeYear": "89.57%",
     "time": 5743,
     "timeDay": 8556,
     "timeWeek": 6144,
     "timeMonth": 5509,
     "timeYear": 5743,
     "dailyMinutesDown": {
+      "2024-10-23": 0,
       "2024-10-22": 361,
       "2024-10-21": 360,
       "2024-10-20": 353,
@@ -163,8 +164,7 @@
       "2024-07-11": 332,
       "2024-07-10": 333,
       "2024-07-09": 334,
-      "2024-07-08": 330,
-      "2024-07-07": 335
+      "2024-07-08": 330
     }
   }
 ]
