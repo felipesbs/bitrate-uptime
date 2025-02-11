@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pas-imp-ch",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 1818,
     "timeDay": 1159,
     "timeWeek": 1224,
@@ -59,18 +59,19 @@
     "url": "$SITE_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
-    "status": "up",
-    "uptime": "92.45%",
-    "uptimeDay": "75.02%",
+    "status": "down",
+    "uptime": "92.53%",
+    "uptimeDay": "75.06%",
     "uptimeWeek": "75.13%",
     "uptimeMonth": "86.10%",
-    "uptimeYear": "92.45%",
+    "uptimeYear": "92.53%",
     "time": 5766,
     "timeDay": 8190,
     "timeWeek": 6120,
     "timeMonth": 5152,
     "timeYear": 5766,
     "dailyMinutesDown": {
+      "2025-02-11": 0,
       "2025-02-10": 360,
       "2025-02-09": 360,
       "2025-02-08": 359,
@@ -169,8 +170,7 @@
       "2024-10-22": 361,
       "2024-10-21": 360,
       "2024-10-20": 353,
-      "2024-10-19": 351,
-      "2024-10-18": 358
+      "2024-10-19": 351
     }
   }
 ]
