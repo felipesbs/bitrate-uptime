@@ -14,7 +14,7 @@
     "timeDay": 1427,
     "timeWeek": 1120,
     "timeMonth": 1128,
-    "timeYear": 1660,
+    "timeYear": 1661,
     "dailyMinutesDown": {
       "2025-03-17": 94,
       "2025-03-14": 21,
@@ -60,18 +60,19 @@
     "url": "$SITE_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
-    "status": "up",
-    "uptime": "94.22%",
-    "uptimeDay": "73.73%",
-    "uptimeWeek": "75.06%",
-    "uptimeMonth": "75.21%",
-    "uptimeYear": "93.29%",
-    "time": 5336,
+    "status": "down",
+    "uptime": "94.28%",
+    "uptimeDay": "74.73%",
+    "uptimeWeek": "75.09%",
+    "uptimeMonth": "75.22%",
+    "uptimeYear": "93.36%",
+    "time": 5328,
     "timeDay": 4056,
     "timeWeek": 3809,
     "timeMonth": 3710,
     "timeYear": 5328,
     "dailyMinutesDown": {
+      "2025-05-17": 0,
       "2025-05-16": 378,
       "2025-05-15": 347,
       "2025-05-14": 356,
@@ -168,8 +169,7 @@
       "2025-02-12": 355,
       "2025-02-11": 358,
       "2025-02-10": 360,
-      "2025-02-09": 360,
-      "2025-02-08": 359
+      "2025-02-09": 360
     }
   }
 ]
