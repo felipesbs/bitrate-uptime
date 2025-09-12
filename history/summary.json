@@ -6,17 +6,16 @@
     "slug": "pas-imp-ch",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.19%",
-    "time": 1200,
-    "timeDay": 1008,
-    "timeWeek": 1574,
-    "timeMonth": 1318,
+    "time": 1201,
+    "timeDay": 1214,
+    "timeWeek": 1630,
+    "timeMonth": 1319,
     "timeYear": 1208,
     "dailyMinutesDown": {
-      "2025-09-11": 5,
       "2025-08-30": 17,
       "2025-06-18": 20,
       "2025-03-17": 94,
@@ -45,8 +44,7 @@
       "2024-09-16": 254,
       "2024-09-15": 219,
       "2024-09-14": 213,
-      "2024-09-13": 224,
-      "2024-09-12": 191
+      "2024-09-13": 224
     }
   },
   {
@@ -55,18 +53,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
     "status": "up",
-    "uptime": "95.45%",
-    "uptimeDay": "74.49%",
-    "uptimeWeek": "74.96%",
-    "uptimeMonth": "74.64%",
-    "uptimeYear": "93.26%",
-    "time": 4832,
-    "timeDay": 2934,
-    "timeWeek": 3052,
-    "timeMonth": 3599,
+    "uptime": "95.41%",
+    "uptimeDay": "74.81%",
+    "uptimeWeek": "75.01%",
+    "uptimeMonth": "74.65%",
+    "uptimeYear": "93.20%",
+    "time": 4828,
+    "timeDay": 2981,
+    "timeWeek": 3023,
+    "timeMonth": 3597,
     "timeYear": 4667,
     "dailyMinutesDown": {
-      "2025-09-11": 368,
+      "2025-09-11": 363,
       "2025-09-10": 353,
       "2025-09-09": 364,
       "2025-09-08": 356,
@@ -164,7 +162,8 @@
       "2025-06-08": 338,
       "2025-06-07": 358,
       "2025-06-06": 369,
-      "2025-06-05": 373
+      "2025-06-05": 373,
+      "2025-06-04": 344
     }
   }
 ]
