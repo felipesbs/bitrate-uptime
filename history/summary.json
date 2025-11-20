@@ -6,9 +6,9 @@
     "slug": "pas-imp-ch",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.92%",
     "time": 1251,
     "timeDay": 1303,
@@ -16,7 +16,7 @@
     "timeMonth": 1482,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2025-11-19": 21,
+      "2025-11-19": 16,
       "2025-11-16": 45,
       "2025-11-11": 46,
       "2025-11-04": 40,
@@ -38,18 +38,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
     "status": "up",
-    "uptime": "95.95%",
-    "uptimeDay": "73.54%",
-    "uptimeWeek": "74.29%",
-    "uptimeMonth": "71.79%",
-    "uptimeYear": "93.23%",
+    "uptime": "95.91%",
+    "uptimeDay": "73.86%",
+    "uptimeWeek": "74.33%",
+    "uptimeMonth": "71.80%",
+    "uptimeYear": "93.17%",
     "time": 4346,
     "timeDay": 4078,
     "timeWeek": 3648,
     "timeMonth": 3412,
     "timeYear": 4184,
     "dailyMinutesDown": {
-      "2025-11-19": 381,
+      "2025-11-19": 376,
       "2025-11-18": 359,
       "2025-11-17": 381,
       "2025-11-16": 399,
@@ -144,7 +144,8 @@
       "2025-08-19": 346,
       "2025-08-18": 369,
       "2025-08-17": 369,
-      "2025-08-16": 348
+      "2025-08-16": 348,
+      "2025-08-15": 351
     }
   }
 ]
