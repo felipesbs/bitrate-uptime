@@ -1,7 +1,7 @@
 url: $SITE_PASIMPCH
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-28T23:49:48.399Z
+status: up
+code: 200
+responseTime: 1125
+lastUpdated: 2026-02-28T23:56:42.041Z
 startTime: 2024-03-19T16:38:33.304Z
 generator: Upptime <https://github.com/upptime/upptime>
