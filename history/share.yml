@@ -1,7 +1,7 @@
 url: $SITE_SHARE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-18T06:32:53.758Z
+status: up
+code: 200
+responseTime: 10013
+lastUpdated: 2026-06-18T10:49:57.138Z
 startTime: 2024-03-19T16:47:25.248Z
 generator: Upptime <https://github.com/upptime/upptime>
