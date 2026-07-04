@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pas-imp-ch",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "96.23%",
     "uptimeWeek": "97.79%",
     "uptimeMonth": "98.64%",
@@ -94,19 +94,18 @@
     "url": "$SITE_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
-    "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "77.98%",
+    "status": "down",
+    "uptime": "97.34%",
+    "uptimeDay": "77.97%",
     "uptimeWeek": "76.99%",
     "uptimeMonth": "79.36%",
-    "uptimeYear": "93.86%",
-    "time": 3794,
+    "uptimeYear": "93.91%",
+    "time": 3791,
     "timeDay": 6380,
     "timeWeek": 4022,
     "timeMonth": 3318,
     "timeYear": 3801,
     "dailyMinutesDown": {
-      "2026-03-27": 278,
       "2026-03-28": 324,
       "2026-03-29": 298,
       "2026-03-30": 369,
@@ -204,7 +203,8 @@
       "2026-06-30": 334,
       "2026-07-01": 229,
       "2026-07-02": 315,
-      "2026-07-03": 317
+      "2026-07-03": 317,
+      "2026-07-04": 0
     }
   }
 ]
