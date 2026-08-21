@@ -4,19 +4,18 @@
     "url": "$SITE_PASIMPCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pas-imp-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "98.44%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "98.84%",
-    "time": 2600,
+    "time": 2602,
     "timeDay": 556,
-    "timeWeek": 3191,
+    "timeWeek": 2578,
     "timeMonth": 4581,
     "timeYear": 2867,
     "dailyMinutesDown": {
-      "2026-02-08": 23,
       "2026-02-10": 103,
       "2026-02-11": 82,
       "2026-02-12": 37,
@@ -91,7 +90,8 @@
       "2026-08-10": 33,
       "2026-08-11": 49,
       "2026-08-14": 150,
-      "2026-08-17": 55
+      "2026-08-17": 55,
+      "2026-08-21": 9
     }
   },
   {
@@ -100,14 +100,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
     "status": "down",
-    "uptime": "97.45%",
+    "uptime": "97.44%",
     "uptimeDay": "76.69%",
-    "uptimeWeek": "75.60%",
+    "uptimeWeek": "75.59%",
     "uptimeMonth": "75.89%",
-    "uptimeYear": "93.83%",
+    "uptimeYear": "93.79%",
     "time": 3848,
     "timeDay": 1353,
-    "timeWeek": 9354,
+    "timeWeek": 7451,
     "timeMonth": 4636,
     "timeYear": 3847,
     "dailyMinutesDown": {
@@ -210,7 +210,7 @@
       "2026-08-18": 364,
       "2026-08-19": 347,
       "2026-08-20": 362,
-      "2026-08-21": 0
+      "2026-08-21": 221
     }
   }
 ]
