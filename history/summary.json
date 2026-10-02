@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.03%",
+    "uptimeWeek": "97.80%",
     "uptimeMonth": "95.37%",
     "uptimeYear": "98.49%",
     "time": 2882,
@@ -104,19 +104,18 @@
     "url": "$SITE_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "share",
-    "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "71.58%",
-    "uptimeWeek": "70.69%",
-    "uptimeMonth": "73.40%",
-    "uptimeYear": "93.11%",
-    "time": 3755,
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "71.56%",
+    "uptimeWeek": "71.36%",
+    "uptimeMonth": "73.44%",
+    "uptimeYear": "93.18%",
+    "time": 3757,
     "timeDay": 2093,
     "timeWeek": 2491,
     "timeMonth": 2664,
     "timeYear": 3786,
     "dailyMinutesDown": {
-      "2026-06-24": 339,
       "2026-06-25": 331,
       "2026-06-26": 385,
       "2026-06-27": 263,
@@ -215,7 +214,8 @@
       "2026-09-28": 386,
       "2026-09-29": 366,
       "2026-09-30": 384,
-      "2026-10-01": 409
+      "2026-10-01": 409,
+      "2026-10-02": 0
     }
   }
 ]
