@@ -107,10 +107,10 @@
     "slug": "share",
     "status": "down",
     "uptime": "96.84%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "96.72%",
     "uptimeWeek": "83.34%",
-    "uptimeMonth": "67.41%",
-    "uptimeYear": "91.53%",
+    "uptimeMonth": "67.30%",
+    "uptimeYear": "91.52%",
     "time": 3620,
     "timeDay": 0,
     "timeWeek": 1460,
@@ -218,7 +218,7 @@
       "2026-11-17": 765,
       "2026-11-18": 513,
       "2026-11-20": 503,
-      "2026-11-24": 0
+      "2026-11-24": 47
     }
   }
 ]
